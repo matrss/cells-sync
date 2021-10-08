@@ -29,7 +29,7 @@ import (
 	"sort"
 	"time"
 
-	"github.com/etcd-io/bbolt"
+	"go.etcd.io/bbolt"
 
 	"github.com/pydio/cells/common/log"
 	"github.com/pydio/cells/common/sync/merger"
